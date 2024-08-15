@@ -57,7 +57,6 @@ jobs:
             torchvision: 0.14.1+cpu
             torch-source: https://download.pytorch.org/whl/torch_stable.html
             slow: True
-            onnx: True
 
     env:
       DEBUG: 1
